@@ -1,2 +1,2 @@
-# Indesign_Project
-A simple program to understand the approach to programming, problem-solving, and code quality.
+# Friend-Finder
+A responsive friend directory with name search and automated tests.
